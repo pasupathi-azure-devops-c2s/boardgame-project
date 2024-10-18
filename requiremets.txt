@@ -1,4 +1,0 @@
-pymongo
-pytest
-PyYAML
-
